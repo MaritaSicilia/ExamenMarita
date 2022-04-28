@@ -21,6 +21,8 @@ public class Suma {
 		System.out.println("El resultado de la suma es:" + result);
 
 		
+		System.out.println("Nueva línea.");
+		
 	}
 
 }
